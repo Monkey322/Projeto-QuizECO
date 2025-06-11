@@ -43,7 +43,7 @@ Cada pergunta vem acompanhada de uma curiosidade educativa sobre o tema.
 
 Clone este repositório:
 
-git clone https://github.com/seu-usuario/quizeco.git
+git clone (https://github.com/Monkey322/Projeto-QuizECO/blob/main/app.py)
 cd quizeco
 
 Execute o arquivo Python:
